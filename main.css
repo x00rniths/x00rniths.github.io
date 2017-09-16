@@ -1,0 +1,16 @@
+body {
+  background-color: #eeeeee;
+  padding: 0 auto;
+  font-family: "courier new";
+  text-align: center;
+}
+i {
+  color: #555555;
+  font-family: "ariel";
+}
+.header {
+  color: #55cccc;
+}
+h1.header {
+  color: #00eeee;
+}
