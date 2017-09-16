@@ -1,6 +1,5 @@
 body {
   background-color: #eeeeee;
-  padding: 0 auto;
   font-family: "courier new";
   text-align: center;
 }
@@ -8,9 +7,16 @@ i {
   color: #555555;
   font-family: "ariel";
 }
+h1.header {
+  color: #00eeee;
+}
 .header {
   color: #55cccc;
 }
-h1.header {
+a {
   color: #00eeee;
+  text-decoration: underline;
+}
+a:hover {
+  color: #55ffff;
 }
